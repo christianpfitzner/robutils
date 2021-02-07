@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 11)
 include_directories(src)
 
 
-# include subdirectories
+# include
 add_subdirectory(src)
 add_subdirectory(test)
 add_subdirectory(lib/googletest)

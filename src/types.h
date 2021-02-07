@@ -10,9 +10,17 @@
 #if !defined(ROBOUTILS_TYPES)
 #define ROBOUTILS_TYPES
 
+
 #include <Eigen/Dense>
+
 #include <vector>
 
+
+
+enum class Axis
+{
+  X, Y, Z 
+}; 
 
 using Point2D      = Eigen::Vector2d; 
 using Point3D      = Eigen::Vector3d; 
