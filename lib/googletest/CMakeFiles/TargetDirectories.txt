@@ -1,0 +1,4 @@
+/home/chris/workspace/git/googletest-release-1.10.0/googletest/CMakeFiles/rebuild_cache.dir
+/home/chris/workspace/git/googletest-release-1.10.0/googletest/CMakeFiles/gtest.dir
+/home/chris/workspace/git/googletest-release-1.10.0/googletest/CMakeFiles/edit_cache.dir
+/home/chris/workspace/git/googletest-release-1.10.0/googletest/CMakeFiles/gtest_main.dir
